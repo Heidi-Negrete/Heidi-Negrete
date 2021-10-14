@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Heidi, an aspiring software developer and chronic scholar.
 - 🌱 I believe that life can be be unbelievably beautiful and fulfilling, if you just be yourself.
-- :wrench: What am I working on right now? I'm tinkering with JavaScript and studying for my second A+ certification exam. 
+- :wrench: What am I working on right now? I'm tinkering with JavaScript and studying database fundamentals. 
 
 - ✨ I want to build a career that serves people and involves teamwork and life-long learning. 
 - 💞️ I infuse purpose into my day-to-day work, to operate with a high level of enthusiasm <em>every</em> day.
