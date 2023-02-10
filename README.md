@@ -4,4 +4,4 @@
 - ✨ I want to build a career in software development that involves teamwork and life-long learning. 
 - 💞️ I infuse purpose into my day-to-day work, to operate with a high level of enthusiasm <em>every</em> day.
 
-- 💼 If you'd be interested in working with me, check out my LinkedIn https://www.linkedin.com/in/heidi-negrete/
+    - 💼 If you'd be interested in working with me, check out my [LinkedIn](https://www.linkedin.com/in/heidi-negrete/).
