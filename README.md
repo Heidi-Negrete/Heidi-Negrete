@@ -5,4 +5,3 @@
 - 💞️ I infuse purpose into my day-to-day work, to operate with a high level of enthusiasm <em>every</em> day.
 ![Metrics](/metrics.plugin.habits.facts.svg)
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.stars.svg)
